@@ -1,3 +1,12 @@
+# React based journal and notetaking application
+
+This project is designed to be a customizable journal/notetaking application with similar customizability to OneNote.
+Features include:
+     -Adding multiple pages with customizable input formats
+     -Search and data analysis
+
+Follow the instructions to setup a local development server for this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
